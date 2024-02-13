@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @IsabelaA99 
-- 👀 I’m interested in entrar no mercado de trabalho de programação.
-- 🌱 I’m currently learning lógica de programação com o visualg.
-- 💞️ I’m looking to collaborate on sites e criação de projetos.
+visualG
 - 📫 gmail: belapso99@gmail.com .
 
 <!---
