@@ -10,5 +10,5 @@
 ## 📬 Como entrar em contato
 
 - 📧 Email: [isabelaa.franca1@gmail.com](isabelaa.franca1@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/isabela-potokhotski-5a2b51213/)
+
 
