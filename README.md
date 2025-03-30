@@ -1,6 +1,6 @@
 # Hello world!!
 
-#### Crio soluções que fazem a diferença. Meu interesse pela comunicação digital me levou a unir o desenvolvimento com a comunicação, compreendendo sua essência além de programar.
+#### Desenvolvedora Full Stack. Crio soluções que fazem a diferença. Meu interesse pela comunicação digital me levou a unir o desenvolvimento com a comunicação, compreendendo sua essência além de programar.
 
 
 ## Linguagens e Tecnologias:
